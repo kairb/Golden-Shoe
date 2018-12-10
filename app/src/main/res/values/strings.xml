@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Golden Shoe</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Kai Roper-Blackman</string>
+    <string name="nav_header_subtitle">kairoperblackman@gmail.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="nav_basket">Basket</string>
+    <string name="nav_account">Acount</string>
+    <string name="nav_catergories">Shop by catergory</string>
+    <string name="nav_orders">Orders</string>
+    <string name="nav_share">Share</string>
+    <string name="share">Share us on social media!</string>
+    <string name="nav_communicate">Communicate</string>
+    <string name="nav_contact">Contact us</string>
+    <string name="contact_us">Contact us by:\n
+    Phone: 12345678901\nEmail: info@goldenshoe.com\n
+    Online: www.goldenshoe.com\n\n
+    Alternatively, leave feedback down below including relevant details and
+        we\'ll get back to you as soon as we can!</string>
+    <string name="adult_shoes">Adult Shoes</string>
+    <string name="childrens_shoes">Childrens Shoes</string>
+    <string name="nav_home">Home</string>
+    <string name="input_feedback">Enter feedback or question</string>
+    <string name="send">Send</string>
+    <string name="trainers">Trainers</string>
+    <string name="smart">Smart</string>
+    <string name="running">Running</string>
+    <string name="boots">Boots</string>
+    <string name="checkout">Finish and Pay</string>
+</resources>
